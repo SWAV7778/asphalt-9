@@ -1,0 +1,4 @@
+interface:
+  display_name: "Asphalt Asset Workflow"
+  short_description: "Inspect game assets and plan Blender conversion workflows"
+  default_prompt: "Use $asphalt-asset-workflow to inspect these game assets and identify a compatible conversion workflow."
